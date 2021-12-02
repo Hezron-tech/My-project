@@ -1,0 +1,26 @@
+body{
+    background-image: url(images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.logo{
+    margin-left: 2%;
+}
+
+.navbar{
+    display: flex;
+   
+}
+
+  
+ul{
+    list-style: none;
+    font-size: 30px;
+    
+  
+}
+
+li{
+    display: inline-block;
+    padding: 15px 30px;
+}
