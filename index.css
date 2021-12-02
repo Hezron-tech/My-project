@@ -4,7 +4,9 @@ body{
     background-repeat: no-repeat;
 }
 .logo{
-    margin-left: 2%;
+    margin-left: 3%;
+    margin-right: 55%;
+    
 }
 
 .navbar{
@@ -23,4 +25,18 @@ ul{
 li{
     display: inline-block;
     padding: 15px 30px;
+}
+.section{
+    display: flex;
+    padding-top: 70px;
+    
+}
+.content{
+    font-size: 50px;
+   margin-left: 10%;
+  line-height: 75px;
+   font-style: italic;
+}
+.image{
+   margin-right: 10%; 
 }
