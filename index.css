@@ -142,3 +142,16 @@ h1{
     font-size: 20px;
     padding: 2px;
 }
+.foot{
+  
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: 100px;
+   
+}
+
+.foot >p{
+    font-size: 30px;
+    padding-top: 2%;
+}  
