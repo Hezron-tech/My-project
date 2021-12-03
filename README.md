@@ -20,3 +20,4 @@ hezron.kiprop@student.moringa.com
 ### License
 *MIT License
 Copyright (c) {2021} **{Kiprop Hezron}**
+Licensed under the [MIT license]
