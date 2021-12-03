@@ -88,6 +88,29 @@ h1{
 .pro{
     display: flex;
 }
+.project{
+    margin: 1%;
+}
 .con{
     display: flex;
+}
+.project >h1{
+    text-align: center;
+}
+.con >p{
+    font-size: 20px;
+    line-height: 30px;
+    padding-left: 10px;
+}
+
+.btn{
+    margin-top: 70px;
+    height: 50px;
+    width: 300px;
+    border-radius: 5%;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    font-weight: bold;
+    margin-left: 40%;
 }
