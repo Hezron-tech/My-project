@@ -47,10 +47,12 @@ ul{
 }
 .con{
     font-size: 30px;
-margin-left: px;
+margin-right: 5%;
    line-height: 75px;
     font-style: italic
 }
+
+
 .container{
     display: flex;
     justify-content: center;
@@ -60,6 +62,15 @@ margin-left: px;
     text-align: center;
     font-size: 20px;
     padding-top: 10px;
+}
+.section1 >h1{
+    font-size: 40px;
+    font-style: italic;
+    color: magenta;
+}
+.section1 >p{
+    font-size: 30px;
+    font-style: italic;
 }
 .box{
     padding: 20px;
