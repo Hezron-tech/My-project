@@ -120,7 +120,17 @@ h1{
 }
 .hobbies{
     flex: 1;
+    margin-left: 3%;
 }
 .contacts{
     flex: 1;
+}
+.hobbies >h3{
+    font-size: 40px;
+    font-style: italic;
+    color: magenta;
+}
+.hobbies ul li{
+    line-height: 40px;
+    font-style: italic;
 }
