@@ -85,3 +85,9 @@ h1{
     font-size: 40px;
     font-style: italic;
 }
+.pro{
+    display: flex;
+}
+.con{
+    display: flex;
+}
